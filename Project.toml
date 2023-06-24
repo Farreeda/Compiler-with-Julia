@@ -1,0 +1,9 @@
+name = "CompilerwizJulia"
+uuid = "4731e2b5-c11b-4136-a684-d94b8f3d3aba"
+authors = ["Farreeda <fareedaabdelazeez@gmail.com>"]
+version = "0.1.0"
+
+[deps]
+PEG = "12d937ae-5f68-53be-93c9-3a6f997a20a8"
+ParserCombinator = "fae87a5f-d1ad-5cf0-8f61-c941e1580b46"
+Unicode = "4ec0a83e-493e-50e2-b9ac-8f72acf5a8f5"
